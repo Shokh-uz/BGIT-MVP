@@ -1,0 +1,247 @@
+{
+  "id": "harry-potter",
+  "title": "Harry Potter — qahramonlar va voqealar",
+  "randomQuestionCount": 10,
+  "questions": [
+    {
+      "id": "hp-1",
+      "question": "Harry Potter kimning farzandi?",
+      "options": ["James va Lily Potter", "Arthur va Molly Weasley", "Tom va Marlene Riddle", "Vernon va Petunia Dursley"],
+      "correctAnswer": "James va Lily Potter"
+    },
+    {
+      "id": "hp-2",
+      "question": "Harry Potter qayerda o‘sadi?",
+      "options": ["Privet Drive, Little Whinging", "Godric’s Hollow", "Hogwarts", "Hogsmeade"],
+      "correctAnswer": "Privet Drive, Little Whinging"
+    },
+    {
+      "id": "hp-3",
+      "question": "Harry ilk marta Hogwarts-ga qachon ketadi?",
+      "options": ["10 yoshida", "11 yoshida", "12 yoshida", "13 yoshida"],
+      "correctAnswer": "11 yoshida"
+    },
+    {
+      "id": "hp-4",
+      "question": "Hogwarts-da nechta uy bor?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "id": "hp-5",
+      "question": "Harry ning eng yaqin do‘sti kimlar?",
+      "options": ["Ron va Hermione", "Draco va Pansy", "Neville va Luna", "Fred va George"],
+      "correctAnswer": "Ron va Hermione"
+    },
+    {
+      "id": "hp-6",
+      "question": "Professor Dumbledore kim?",
+      "options": ["Hogwarts direktori", "Voldemortning yordamchisi", "Slytherin o‘qituvchisi", "Muggle o‘qituvchisi"],
+      "correctAnswer": "Hogwarts direktori"
+    },
+    {
+      "id": "hp-7",
+      "question": "Voldemortning asl ismi nima?",
+      "options": ["Tom Riddle", "Severus Snape", "Sirius Black", "Albus Dumbledore"],
+      "correctAnswer": "Tom Riddle"
+    },
+    {
+      "id": "hp-8",
+      "question": "Harry ning eng mashhur dushmani kim?",
+      "options": ["Draco Malfoy", "Neville Longbottom", "Hagrid", "Ron Weasley"],
+      "correctAnswer": "Draco Malfoy"
+    },
+    {
+      "id": "hp-9",
+      "question": "Ron Weasley qayerdan keladi?",
+      "options": ["London", "Ottery St Catchpole", "The Burrow, Devon", "Little Whinging"],
+      "correctAnswer": "The Burrow, Devon"
+    },
+    {
+      "id": "hp-10",
+      "question": "Hermione Granger qaysi oiladan keladi?",
+      "options": ["Muggle oilasi", "Wizard oilasi", "Pure-blood oilasi", "Malfoy oilasi"],
+      "correctAnswer": "Muggle oilasi"
+    },
+    {
+      "id": "hp-11",
+      "question": "Hedwig qanday hayvon?",
+      "options": ["Oq burgut", "Qora mushuk", "Ovchit mushuk", "It"],
+      "correctAnswer": "Oq burgut"
+    },
+    {
+      "id": "hp-12",
+      "question": "Hogwarts Express odatda qaysi platformadan jo‘naydi?",
+      "options": ["7-platforma", "8-platforma", "9¾-platforma", "10-platforma"],
+      "correctAnswer": "9¾-platforma"
+    },
+    {
+      "id": "hp-13",
+      "question": "Hagrid dastlab Hogwarts-da qanday lavozimda?",
+      "options": ["O‘rmon boshqaruvchisi va kalit saqlovchi", "Direktor", "Hisobchi", "Shifokor"],
+      "correctAnswer": "O‘rmon boshqaruvchisi va kalit saqlovchi"
+    },
+    {
+      "id": "hp-14",
+      "question": "Gryffindor uyining ramzi nima?",
+      "options": ["Sher", "Ilon", "Burgut", "Qirqpo‘ron"],
+      "correctAnswer": "Sher"
+    },
+    {
+      "id": "hp-15",
+      "question": "Harry qaysi uyga tushadi?",
+      "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+      "correctAnswer": "Gryffindor"
+    },
+    {
+      "id": "hp-16",
+      "question": "Birinchi kitobda uch boshli itning ismi nima?",
+      "options": ["Fluffy", "Fang", "Norbert", "Crookshanks"],
+      "correctAnswer": "Fluffy"
+    },
+    {
+      "id": "hp-17",
+      "question": "Erised ko‘zgusi nimani ko‘rsatadi?",
+      "options": ["Insonning eng chuqur orzusi", "Kelajak", "Yashirin xarta", "O‘tgan kunlarni"],
+      "correctAnswer": "Insonning eng chuqur orzusi"
+    },
+    {
+      "id": "hp-18",
+      "question": "Zinalar kamerasidagi yirtqich haqida gap ketganda nimani nazarda tutamiz?",
+      "options": ["Basilisk", "Ajdarho", "Akromantula", "Grindylov"],
+      "correctAnswer": "Basilisk"
+    },
+    {
+      "id": "hp-19",
+      "question": "Sirius Black Harry uchun aslida kim bo‘lib chiqadi?",
+      "options": ["Sug‘urili amaki", "Bobosi", "Uzoq qarindosh", "Sehrli himoyachi"],
+      "correctAnswer": "Sug‘urili amaki"
+    },
+    {
+      "id": "hp-20",
+      "question": "Dementorlardan himoya qiluvchi asosiylari qaysi sehr?",
+      "options": ["Expecto Patronum", "Expelliarmus", "Lumos", "Stupefy"],
+      "correctAnswer": "Expecto Patronum"
+    },
+    {
+      "id": "hp-21",
+      "question": "Phoenix jamiyati (Order of the Phoenix) boshida kim turadi?",
+      "options": ["Albus Dumbledore", "Cornelius Fudge", "Dolores Umbridge", "Rufus Scrimgeour"],
+      "correctAnswer": "Albus Dumbledore"
+    },
+    {
+      "id": "hp-22",
+      "question": "Sirius Black qayerda halok bo‘ladi (5-kitobdagi voqea)?",
+      "options": ["Sehr vazirligi/Mudofaa departamenti jangida", "Azkabanda", "The Burrowda", "Godric’s Hollowda"],
+      "correctAnswer": "Sehr vazirligi/Mudofaa departamenti jangida"
+    },
+    {
+      "id": "hp-23",
+      "question": "O‘zini «Qon qarindosh shahzoda» deb atagan kim bo‘lib chiqadi (6-kitob)?",
+      "options": ["Severus Snape", "Tom Riddle", "Draco Malfoy", "Harry Potter"],
+      "correctAnswer": "Severus Snape"
+    },
+    {
+      "id": "hp-24",
+      "question": "Voldemort o‘z ruhini bo‘lishlar (Horcrux) orqali nechta qismlarga bo‘lishni rejalashtirgan?",
+      "options": ["7 ta", "5 ta", "6 ta", "4 ta"],
+      "correctAnswer": "7 ta"
+    },
+    {
+      "id": "hp-25",
+      "question": "Olmas buyumlar (Deathly Hallows) nechta buyumdan iborat?",
+      "options": ["3 ta", "2 ta", "4 ta", "1 ta"],
+      "correctAnswer": "3 ta"
+    },
+    {
+      "id": "hp-26",
+      "question": "Luna Lovegood qaysi uyga tushadi?",
+      "options": ["Ravenclaw", "Gryffindor", "Hufflepuff", "Slytherin"],
+      "correctAnswer": "Ravenclaw"
+    },
+    {
+      "id": "hp-27",
+      "question": "Petunia Dursley Lily Potter bilan qanday qarindosh?",
+      "options": ["Lilyning singlisi", "Lilyning onasi", "Lilyning xolasi", "Lilyning sevimli qo‘shnisi"],
+      "correctAnswer": "Lilyning singlisi"
+    },
+    {
+      "id": "hp-28",
+      "question": "Dobby qanday maxluqot?",
+      "options": ["Uy elfi", "Qush", "O‘ral", "Bor"],
+      "correctAnswer": "Uy elfi"
+    },
+    {
+      "id": "hp-29",
+      "question": "Neville Longbottom qaysi fanni eng ko‘p yaxshi ko‘radi?",
+      "options": ["O‘simliklar (Gerbologiya)", "Simyonomis", "O‘zgartirish sehrleri", "Tarix"],
+      "correctAnswer": "O‘simliklar (Gerbologiya)"
+    },
+    {
+      "id": "hp-30",
+      "question": "Quidditch o‘yinida oltin pashshaxon (‘Snitch’) nechta ochko beradi?",
+      "options": ["150", "10", "50", "100"],
+      "correctAnswer": "150"
+    },
+    {
+      "id": "hp-31",
+      "question": "Mavjud qoidalarga ko‘ra, bir vaqtda qancha Bludger maydonda uchadi?",
+      "options": ["2 ta", "1 ta", "3 ta", "4 ta"],
+      "correctAnswer": "2 ta"
+    },
+    {
+      "id": "hp-32",
+      "question": "Hogwarts Express odatda qayerdan jo‘naydi?",
+      "options": ["King’s Cross, London", "Hogsmeade", "Diagon ko‘chasi", "Ministry of Magic"],
+      "correctAnswer": "King’s Cross, London"
+    },
+    {
+      "id": "hp-33",
+      "question": "Slytherin uyining ramzi nima?",
+      "options": ["Ilon", "Sher", "Burgut", "Qirqpo‘ron"],
+      "correctAnswer": "Ilon"
+    },
+    {
+      "id": "hp-34",
+      "question": "Diagon ko‘chasining qorong‘i parallel ko‘chasi qanday ataladi?",
+      "options": ["Knockturn ko‘chasi", "Privet Drive", "Ottery St Catchpole", "Godric’s Hollow"],
+      "correctAnswer": "Knockturn ko‘chasi"
+    },
+    {
+      "id": "hp-35",
+      "question": "Remus Lupin qaysi maxluqotgacha aylanadi?",
+      "options": ["Bo‘ri odam (werewolf)", "Vampir", "Animagus mushuk", "Basilisk"],
+      "correctAnswer": "Bo‘ri odam (werewolf)"
+    },
+    {
+      "id": "hp-36",
+      "question": "Quidditchda uchta halqa (goal) bir jamoaga nechta?",
+      "options": ["3 ta", "2 ta", "1 ta", "6 ta"],
+      "correctAnswer": "3 ta"
+    },
+    {
+      "id": "hp-37",
+      "question": "Bellatrix Lestrange kim bilan turmush qurgan?",
+      "options": ["Rodolphus Lestrange bilan", "Lucius Malfoy bilan", "Voldemort bilan", "Severus Snape bilan"],
+      "correctAnswer": "Rodolphus Lestrange bilan"
+    },
+    {
+      "id": "hp-38",
+      "question": "Kim Harry Potter uchun ilon tilini tushunishni tushuntiradi?",
+      "options": ["Albus Dumbledore", "Severus Snape", "Gilderoy Lockhart", "Horace Slughorn"],
+      "correctAnswer": "Albus Dumbledore"
+    },
+    {
+      "id": "hp-39",
+      "question": "Urushdan keyin Sehr-vazir kim bo‘ladi (asosiy voqealar oxirida)?",
+      "options": ["Kingsley Shacklebolt", "Cornelius Fudge", "Pius Thicknesse", "Rufus Scrimgeour"],
+      "correctAnswer": "Kingsley Shacklebolt"
+    },
+    {
+      "id": "hp-40",
+      "question": "Helga Hufflepuff bilan bog‘liq uy qaysi?",
+      "options": ["Hufflepuff", "Ravenclaw", "Gryffindor", "Slytherin"],
+      "correctAnswer": "Hufflepuff"
+    }
+  ]
+}

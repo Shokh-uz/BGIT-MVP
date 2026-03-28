@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "javascript-basics",
+      "title": "JavaScript Basics",
+      "questions": [
+        {
+          "id": "js-1",
+          "question": "Which keyword declares a block-scoped variable?",
+          "options": ["var", "let", "function", "label"],
+          "correctAnswer": "let"
+        },
+        {
+          "id": "js-2",
+          "question": "What does `typeof null` return in JavaScript?",
+          "options": ["null", "undefined", "object", "number"],
+          "correctAnswer": "object"
+        }
+      ]
+    },
+    {
+      "id": "http-fundamentals",
+      "title": "HTTP Fundamentals",
+      "questions": [
+        {
+          "id": "http-1",
+          "question": "Which HTTP method is typically used to fetch a resource?",
+          "options": ["POST", "GET", "PATCH", "CONNECT"],
+          "correctAnswer": "GET"
+        },
+        {
+          "id": "http-2",
+          "question": "Which status code means \"Created\" after a successful POST?",
+          "options": ["200", "201", "204", "301"],
+          "correctAnswer": "201"
+        }
+      ]
+    }
+  ]
+}

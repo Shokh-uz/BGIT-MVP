@@ -1,0 +1,17 @@
+{
+  "name": "express-auth-server",
+  "version": "1.0.0",
+  "description": "Express server with register/login and JSON file storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

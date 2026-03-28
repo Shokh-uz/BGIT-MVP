@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "c3bef098-9af4-4003-bc6a-ce694d359091",
+      "email": "shoxruxsheyx7@gmail.com",
+      "passwordHash": "4a02d1a140d1f5b79bb8fad81e26d99e7757d524c4cb3eff1be6aaac5bf77e1526c1ee5f7b33252f12dd7196c172db3b9e5a33780dc96c6ab7fc04a9b9ad10a6",
+      "salt": "a6f345e6cdf00fed932824f58bdd0b7f",
+      "streak": 0,
+      "last_active": null,
+      "xp": 0
+    }
+  ]
+}
